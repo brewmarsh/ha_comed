@@ -1,0 +1,14 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "ComEd Hourly Pricing",
+                "description": "Set up the ComEd Hourly Pricing integration. There are no options to configure."
+            }
+        },
+        "abort": {
+            "single_instance_allowed": "Only a single instance of ComEd Hourly Pricing is allowed."
+        }
+    },
+    "title": "ComEd Hourly Pricing"
+}
